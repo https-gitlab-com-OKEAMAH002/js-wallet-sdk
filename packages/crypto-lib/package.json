@@ -52,7 +52,7 @@
     "hash.js": "^1.0.0",
     "hmac-drbg": "^1.0.1",
     "inherits": "^2.0.4",
-    "jsrsasign": "^10.8.2",
+    "jsrsasign": "^11.1.0",
     "long": "^5.2.0",
     "minimalistic-assert": "^1.0.1",
     "minimalistic-crypto-utils": "^1.0.1",
