@@ -36,7 +36,7 @@
     "@okxweb3/coin-base": "^1.0.0",
     "@okxweb3/crypto-lib": "^1.0.0",
     "@polkadot/x-textdecoder": "^9.6.2",
-    "@polkadot/x-textencoder": "^9.6.2",
+    "@polkadot/x-textencoder": "^13.2.3",
     "pako": "^2.0.4"
   }
 }
