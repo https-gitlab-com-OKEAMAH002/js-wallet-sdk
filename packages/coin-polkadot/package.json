@@ -34,6 +34,6 @@
   },
   "dependencies": {
     "@polkadot/x-textencoder": "^9.5.1",
-    "@okxweb3/crypto-lib": "^1.0.0"
+    "@okxweb3/crypto-lib": "^2.0.4"
   }
 }
