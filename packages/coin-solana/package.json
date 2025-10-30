@@ -36,6 +36,6 @@
     "bigint-buffer": "^1.1.5",
     "@metaplex-foundation/beet": "^0.7.1",
     "@okxweb3/crypto-lib": "^1.0.0",
-    "@okxweb3/coin-base": "^1.0.0"
+    "@okxweb3/coin-base": "^2.0.3"
   }
 }
