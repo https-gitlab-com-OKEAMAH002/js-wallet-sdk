@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "pako": "2.1.0",
-    "@okxweb3/crypto-lib": "^1.0.0",
+    "@okxweb3/crypto-lib": "^2.0.5",
     "@okxweb3/coin-base": "^1.0.0"
   },
   "description": ""
