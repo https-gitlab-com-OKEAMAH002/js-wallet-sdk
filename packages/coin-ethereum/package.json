@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@okxweb3/crypto-lib": "^1.0.0",
-    "@okxweb3/coin-base": "^1.0.0",
+    "@okxweb3/coin-base": "^2.0.3",
     "eth-sig-util": "^3.0.1",
     "superstruct": "^1.0.3"
   }
